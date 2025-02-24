@@ -1,5 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/shaal/ddev-gitpod)
-
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/angledSky3/ddev-gitpod)
 # ddev + Gitpod
 ## Set up a full Drupal dev environment in a browser
 
@@ -16,7 +15,7 @@ Watch a 5 minutes walkthrough video:
 
 ## Try it out:
 1. Click on the following link
-  https://gitpod.io/#https://github.com/shaal/ddev-gitpod
+  https://gitpod.io/#https://github.com/angledSky3/ddev-gitpod
 1. Your environment is being prepared, wait about 40 seconds (A splash screen will appear)
 1. VScode IDE will be displayed, a few seconds later you will see Umami demo.
 1. Run in terminal `ddev xdebug on`
